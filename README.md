@@ -27,6 +27,6 @@ How to apply advanced filters and parameters in Tableau.
 
 Improved skills in data cleaning, visualization, and storytelling.
 
-- Live Link
+-Live Link
 
  You can view the dashboard here: [ https://combinedlink.netlify.app]
